@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Banking  Finance</name>
+   <tag></tag>
+   <elementGuidId>5e39b3f5-7600-435d-8168-d8ffce0f4dd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_search']/div[2]/div[9]/div[7]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5b767142-7008-4f83-8992-15094d9e7df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-style-3-label</value>
+      <webElementGuid>97be9bd1-3d51-49f0-8b59-daecc8a1041e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>industry-7</value>
+      <webElementGuid>073220fd-01d7-4d4a-ae29-681a68c87ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Banking &amp; Finance</value>
+      <webElementGuid>0a62085c-53eb-4624-accc-4d1a5be5fdbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-panel&quot;)/div[@class=&quot;scwStickySidebar&quot;]/div[@class=&quot;side-panel-wrap&quot;]/form[@id=&quot;form_search&quot;]/div[@class=&quot;checkbox-filter&quot;]/div[@class=&quot;industry-filter&quot;]/div[@class=&quot;checkbox-grup&quot;]/label[@class=&quot;checkbox-style-3-label&quot;]</value>
+      <webElementGuid>bc9fb450-764a-4ede-bc7d-5f35eb6053f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_search']/div[2]/div[9]/div[7]/label</value>
+      <webElementGuid>5199219d-79ee-49b0-bb34-dee67858ed9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wholesale, Retail Trade, &amp; Distributor'])[1]/following::label[1]</value>
+      <webElementGuid>ec8fdc64-5571-433a-b061-b92d4507aa7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Media'])[1]/following::label[2]</value>
+      <webElementGuid>5d59b178-5a84-4a9a-b143-0b2a74ea5c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health Care'])[1]/preceding::label[1]</value>
+      <webElementGuid>2b5a328f-1efa-4329-be37-ec09c38e6c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industrial Goods &amp; Services'])[1]/preceding::label[2]</value>
+      <webElementGuid>61316934-6a5a-4dc4-b8fe-371a4cdaf68b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Banking &amp; Finance']/parent::*</value>
+      <webElementGuid>851b5e04-569c-400d-a782-18e38556a3c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/label</value>
+      <webElementGuid>919a8c69-6593-47b4-b8c6-cf70c49a5f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Banking &amp; Finance' or . = 'Banking &amp; Finance')]</value>
+      <webElementGuid>0e5b47a9-04e9-4987-bc79-1bf845e9d6d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

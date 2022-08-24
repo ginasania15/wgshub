@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TALENT MORE</name>
+   <tag></tag>
+   <elementGuidId>f6ed423f-c449-4de3-b670-361c7ea045fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.button-rounded.button-outline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ventures-list']/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>64bc262c-ae32-4f9c-a4c7-a56b5b7f48d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-rounded button-outline</value>
+      <webElementGuid>ba95f43c-93ce-4c44-8d76-d65ef7db8a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.emveep.com/</value>
+      <webElementGuid>0c252860-470f-4eaf-9798-3e77cc18b3e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>0849973d-aa20-4d64-8526-4f8d10a7b136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TALENT MORE</value>
+      <webElementGuid>fddee45a-20e4-4de2-b6f9-9deac7b6dd98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ventures-list&quot;)/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;startup-item&quot;]/div[@class=&quot;startup-text&quot;]/a[@class=&quot;button button-rounded button-outline&quot;]</value>
+      <webElementGuid>70255983-0377-407c-9c8c-2010b334f914</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ventures-list']/div/div/div/a</value>
+      <webElementGuid>e3748a25-d52c-47c7-8dfd-e0eec7cce5c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'TALENT MORE')]</value>
+      <webElementGuid>97ce16d9-d0b1-432a-94f5-99505fea99f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMVEEP'])[1]/following::a[1]</value>
+      <webElementGuid>0ed380d4-c084-4cb9-b056-4595fdbb15a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ventures'])[1]/following::a[1]</value>
+      <webElementGuid>ef463dec-51db-47d9-ae70-ca1244b268c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mythologic Studio'])[1]/preceding::a[1]</value>
+      <webElementGuid>7cb22e55-48d4-4ee5-9678-1a63bae22890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEARN MORE'])[1]/preceding::a[1]</value>
+      <webElementGuid>382b38d0-a916-44a7-ab86-454507e78d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TALENT MORE']/parent::*</value>
+      <webElementGuid>4721bc47-1d9c-45a6-a3e2-486d61fcc3e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.emveep.com/')]</value>
+      <webElementGuid>1688ca94-997e-4c82-a0bd-64fe99603724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>345d1d99-14b6-460b-a269-9c5472a9bb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.emveep.com/' and (text() = 'TALENT MORE' or . = 'TALENT MORE')]</value>
+      <webElementGuid>7cea6255-c0a7-4b91-9973-6960c976054f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

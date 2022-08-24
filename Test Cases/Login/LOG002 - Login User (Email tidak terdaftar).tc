@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LOG002 - Login User (Email tidak terdaftar)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79efcc85-e747-4ee7-9ba4-e47f8f8a594a</testCaseGuid>
+</TestCaseEntity>

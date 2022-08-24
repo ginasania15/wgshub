@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG001 - Register User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>985fe79a-eb41-48f7-bbf6-936668aaed60</testCaseGuid>
+</TestCaseEntity>

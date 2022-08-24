@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LOG004 - Login User (Email dikosongkan)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c6be5d5-2d29-48f6-a4a9-123e8afa2fd0</testCaseGuid>
+</TestCaseEntity>

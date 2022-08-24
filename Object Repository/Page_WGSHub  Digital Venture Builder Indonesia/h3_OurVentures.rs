@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_OurVentures</name>
+   <tag></tag>
+   <elementGuidId>30a2af51-e2a4-4c49-83fd-bad4b0b7025c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.heading-block.nobottomborder.title-bottom-border.heading-center > h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='content']/div/div[3]/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>ae9a1ce9-7667-40b0-ae83-39988df69da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Our
+Ventures.
+</value>
+      <webElementGuid>0b1aa25e-36a6-479d-98eb-b1718014418c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;content-wrap page-new-home nopadding&quot;]/div[@class=&quot;section nomargin home-our-startup&quot;]/div[@class=&quot;container startup-cont&quot;]/div[@class=&quot;heading-block nobottomborder title-bottom-border heading-center&quot;]/h3[1]</value>
+      <webElementGuid>8e072f53-6298-498a-9fa5-baac3372b5c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='content']/div/div[3]/div/div/h3</value>
+      <webElementGuid>a7454a47-1824-4e41-9572-ea416e04abc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exit Strategy'])[2]/following::h3[1]</value>
+      <webElementGuid>e9dbcf1f-06e5-42ec-9054-a03149d1a08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ExitStrategy'])[1]/following::h3[2]</value>
+      <webElementGuid>a1760039-d292-4e2c-ad87-b0ad5d40a393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMVEEP'])[1]/preceding::h3[1]</value>
+      <webElementGuid>190ff34d-c5c9-401c-a1aa-fa15d91d6777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Our']/parent::*</value>
+      <webElementGuid>ee6eb8f1-6b90-4fe5-abae-9da6bb0dbdc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/h3</value>
+      <webElementGuid>339d7b1e-f441-403f-90c8-66ce4481ff47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '
+Our
+Ventures.
+' or . = '
+Our
+Ventures.
+')]</value>
+      <webElementGuid>93c8e87e-95e2-4378-94ef-05efa6e89026</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

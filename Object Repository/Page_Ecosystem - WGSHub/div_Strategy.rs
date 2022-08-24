@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Strategy</name>
+   <tag></tag>
+   <elementGuidId>5a57b957-d571-4886-bcbb-bb434b2d079c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.togglet</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_search']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f5be10c-55e4-4e67-9cd6-5322e61f8d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>togglet</value>
+      <webElementGuid>b86e05da-6395-4e0f-885a-4f6d16bcdf07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Strategy
+</value>
+      <webElementGuid>310cc507-4370-4923-b017-2e52272c72a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-panel&quot;)/div[@class=&quot;scwStickySidebar&quot;]/div[@class=&quot;side-panel-wrap&quot;]/form[@id=&quot;form_search&quot;]/div[@class=&quot;checkbox-filter&quot;]/div[@class=&quot;toggle&quot;]/div[@class=&quot;togglet&quot;]</value>
+      <webElementGuid>a81c7784-1a86-47d7-84e4-f51e73debb0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_search']/div[2]/div/div</value>
+      <webElementGuid>30e5c328-efc7-4cac-b74b-0e28e007b30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solution Type'])[1]/following::div[2]</value>
+      <webElementGuid>2da3d3c6-2058-4117-bab9-9b46f474bae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consulting'])[1]/preceding::div[1]</value>
+      <webElementGuid>4420aad8-9da5-46af-a8f0-662f6522107a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valuation'])[1]/preceding::div[2]</value>
+      <webElementGuid>62fa67f0-dcf7-4dce-b6a9-169c796ef738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Strategy']/parent::*</value>
+      <webElementGuid>7927a349-bafa-47b0-82f5-bedf9209437f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>2107da08-c045-4bb4-96f9-4c85b95d55ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+
+Strategy
+' or . = '
+
+Strategy
+')]</value>
+      <webElementGuid>48d87c38-bc4f-4419-81f9-99edf60188f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

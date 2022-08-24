@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Watch Video</name>
+   <tag></tag>
+   <elementGuidId>09c415af-7505-41bd-b45d-3216706202ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.button-primary.button-rounded.topmargin-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='page-title']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d7b722e3-9e8c-4fd7-8457-d735aa1978df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-primary button-rounded topmargin-sm</value>
+      <webElementGuid>3913d635-bb7c-4817-9421-d57099263f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.youtube.com/channel/UCnaFS1gdb7noqvqVsnsXPLw</value>
+      <webElementGuid>bf833fe2-623a-4ea9-b610-8479c5683bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>66973585-39d7-4a01-b926-c67f6ef19fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Watch Video</value>
+      <webElementGuid>1eb8ce36-b564-4a87-b125-f5bf2858e20c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-title&quot;)/div[@class=&quot;container clearfix&quot;]/a[@class=&quot;button button-primary button-rounded topmargin-sm&quot;]</value>
+      <webElementGuid>852c694c-3aba-4177-8b56-7fe4fcbe9db6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='page-title']/div/a</value>
+      <webElementGuid>3e0a483d-4c3b-447e-9011-f8094a0651e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Watch Video')]</value>
+      <webElementGuid>ecc79319-5471-41ed-abe9-24ac954ad3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia’s leading Venture Builder™ (IDX:WGSH)'])[1]/following::a[1]</value>
+      <webElementGuid>9536d420-acfd-4a6a-9189-e1722434f4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::a[1]</value>
+      <webElementGuid>3e37c451-580a-4748-bfa8-678d31acab73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perseverance.'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a8ec0ea-17dc-4345-9651-b9d5b2069e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passion to Learn.'])[1]/preceding::a[1]</value>
+      <webElementGuid>2e22b45b-f2e0-4ede-b13f-4f44099ba940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Watch Video']/parent::*</value>
+      <webElementGuid>f11b90f2-11a6-4469-8941-8f93c0a8b18d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.youtube.com/channel/UCnaFS1gdb7noqvqVsnsXPLw')]</value>
+      <webElementGuid>a84ac732-3395-411b-adfa-d2037edaf401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/a</value>
+      <webElementGuid>0f686ced-edec-4bd8-8bd0-3ad5a261c62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.youtube.com/channel/UCnaFS1gdb7noqvqVsnsXPLw' and (text() = 'Watch Video' or . = 'Watch Video')]</value>
+      <webElementGuid>7456c8dc-122d-488e-91bc-04c537d30dd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

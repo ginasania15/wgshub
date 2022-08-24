@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_VIEW SHOP</name>
+   <tag></tag>
+   <elementGuidId>4f2369b1-3716-4427-a756-2191c099f68b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ventures-list']/div[4]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>65b18a82-f2b1-4e8f-8095-43c99e467629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-rounded button-outline</value>
+      <webElementGuid>73d433a8-a381-47d4-80a8-0f7ed7bcfbde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.whizliz.com/</value>
+      <webElementGuid>cd9201c8-9676-4390-85c1-8e4e2105e7cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>1e35f5f4-e718-4dd0-b2c9-4945269ef719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VIEW SHOP</value>
+      <webElementGuid>d2ed7002-41ec-4280-bb74-dd368751852e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ventures-list&quot;)/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;startup-item&quot;]/div[@class=&quot;startup-text&quot;]/a[@class=&quot;button button-rounded button-outline&quot;]</value>
+      <webElementGuid>291124ec-3ec0-4f18-9e0d-9272ea052f48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ventures-list']/div[4]/div/div/a</value>
+      <webElementGuid>b28be756-9bf7-43b0-8460-528d3ed210a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'VIEW SHOP')]</value>
+      <webElementGuid>d2e59e64-eab2-400f-82b4-a78413ac7b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WHIZLIZ'])[1]/following::a[1]</value>
+      <webElementGuid>aa435ae1-8d6a-4297-a6a2-b47787e38de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOWNLOAD APP'])[1]/following::a[1]</value>
+      <webElementGuid>6d07e235-4f8d-4f07-9c3c-649feb5d6c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[1]/preceding::a[3]</value>
+      <webElementGuid>288f4683-ba6f-4e32-965f-d519dfdcd233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We have a complete Tech Ecosystem'])[1]/preceding::a[4]</value>
+      <webElementGuid>fb31e2f0-1bc3-4148-8b14-6e20f0f09068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VIEW SHOP']/parent::*</value>
+      <webElementGuid>792d709b-a49f-404a-a7be-ea89d4fd05a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.whizliz.com/')]</value>
+      <webElementGuid>2c70c270-986b-4496-a8b7-a2a61cae9766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div/div/a</value>
+      <webElementGuid>78421c7c-ce3c-4e11-ac60-5d5874ead96a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.whizliz.com/' and (text() = 'VIEW SHOP' or . = 'VIEW SHOP')]</value>
+      <webElementGuid>e3e7aa35-ab60-4702-ae02-4d9068b4e494</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

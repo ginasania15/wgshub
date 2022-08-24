@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DOWNLOAD APP</name>
+   <tag></tag>
+   <elementGuidId>0e3a40d8-ce07-4969-a265-31f0fbb5f8d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ventures-list']/div[3]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7bd3457a-e0e8-4fe4-9a95-a566a6e9ef6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-rounded button-outline</value>
+      <webElementGuid>32df62f8-14f3-44f2-a768-812f59ea689a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://play.google.com/store/apps/details?id=com.pagii&amp;hl=in&amp;gl=US</value>
+      <webElementGuid>6847ad08-ca25-43ff-a2f8-2dde9a5fc39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>a64f9a63-51fb-42da-b302-ddb1dfc9d5ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DOWNLOAD APP</value>
+      <webElementGuid>ad671f0b-e241-4a0f-80a8-ea953916d781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ventures-list&quot;)/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;startup-item&quot;]/div[@class=&quot;startup-text&quot;]/a[@class=&quot;button button-rounded button-outline&quot;]</value>
+      <webElementGuid>6b58dfe8-0cb8-4941-81b4-4bb31bc71475</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ventures-list']/div[3]/div/div/a</value>
+      <webElementGuid>47390d29-02da-42cb-bb47-3760f05201cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DOWNLOAD APP')]</value>
+      <webElementGuid>58095afc-0e45-4a77-852e-6f18d7eb88a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGII'])[1]/following::a[1]</value>
+      <webElementGuid>a91a9b87-b0ca-4b1d-ba2d-670d445e1a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEARN MORE'])[1]/following::a[1]</value>
+      <webElementGuid>089c03de-7555-4ece-b0a4-6f17ae9864df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WHIZLIZ'])[1]/preceding::a[1]</value>
+      <webElementGuid>ec21dc91-8adb-46ae-bc22-c8f32f27e68d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW SHOP'])[1]/preceding::a[1]</value>
+      <webElementGuid>b676a451-5ffe-4d62-82de-fc9b765507ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DOWNLOAD APP']/parent::*</value>
+      <webElementGuid>149d116c-d2f2-426c-81e5-d790d17dc48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://play.google.com/store/apps/details?id=com.pagii&amp;hl=in&amp;gl=US')]</value>
+      <webElementGuid>22bde5e8-8daf-4e42-8f50-825b03fe58a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>2fb2f84e-9b5a-478d-8f4f-f7d42b9c6add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://play.google.com/store/apps/details?id=com.pagii&amp;hl=in&amp;gl=US' and (text() = 'DOWNLOAD APP' or . = 'DOWNLOAD APP')]</value>
+      <webElementGuid>012715e2-70b5-4356-ada1-fbd3a0e21e99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
